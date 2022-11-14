@@ -6,9 +6,10 @@ The goal of this project is to analyse and compare the AirBnB Dataset between th
 * Data Cleaning
 * Exploratory Data Analysis
 * Data Modeling
-## Questions
-* Which days/seasons most of the comments were given? Did it have to do with a specific season? Which months?/years? more common? Reviews (plots of dates)
-* Is there a correlation between the No of reviews and the price??
-* Is there a correlation between the room type and the price??
-* Is there a correlation between the min nights of stay and the price??
-* Is there a correlation between the min nights of stay and the room type?? Eg people who have a whole property are likely to expect more min nights?
+## Analysis Topics
+* Comparison between Athens vs. London data
+* Which days/seasons most of the comments were given? Did it have to do with a specific season? Which months?/years?
+* Is there a correlation between the No of reviews and the price?
+* Is there a correlation between the room type and the price?
+* Is there a correlation between the min nights of stay and the price?
+* Is there a correlation between the min nights of stay and the room type? Eg Are whole-property-owners more likely to set more min nights?
