@@ -1,6 +1,6 @@
 # Athens_vs._London_AirBnB_DataAnalysis
 ## Project overview
-The goal of this project is to analyse and compare the AirBnB Dataset between the listing records of Athens, Greece and London, United Kingdom. Born and raised in Athens and currently working and living in London I was looking for interesting insights of this online rental marketplace that will be presented here via data cleaning, visualizations and exploratory data analysis.
+The goal of this project is to analyse and compare the AirBnB Dataset between the listing records of Athens, Greece and London, United Kingdom. Born and raised in Athens and currently working and living in London I was looking for interesting insights of this online rental marketplace that will be presented here via data cleaning, visualisations and exploratory data analysis.
 ## Process
 * Data Collection
 * Data Cleaning
