@@ -13,3 +13,5 @@ The goal of this project is to analyse and compare the AirBnB Dataset between th
 * Is there a correlation between the room type and the price?
 * Is there a correlation between the min nights of stay and the price?
 * Is there a correlation between the min nights of stay and the room type? Eg Are whole-property-owners more likely to set more min nights?
+## URL Dataset
+http://insideairbnb.com/get-the-data/
