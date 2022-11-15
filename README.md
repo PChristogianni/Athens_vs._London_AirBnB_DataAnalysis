@@ -8,6 +8,7 @@ The goal of this project is to analyse and compare the AirBnB Dataset between th
 * Data Modeling
 ## Analysis Topics
 * Comparison between Athens vs. London data
+* What is the impact of Covid-19 on AirBnB stays in London and Athens?
 * Which days/seasons most of the comments were given? Did it have to do with a specific season? Which months?/years?
 * Is there a correlation between the No of reviews and the price?
 * Is there a correlation between the room type and the price?
